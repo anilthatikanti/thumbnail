@@ -1,0 +1,17 @@
+/* Write your code here. */
+.btn-Logo {
+  width: 80px;
+  border-radius: 4px;
+}
+
+.btn {
+  background-color: transparent;
+  border-width: 0px;
+  cursor: pointer;
+}
+.normal {
+  opacity: 0.5;
+}
+.perfect {
+  opacity: 1;
+}
